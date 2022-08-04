@@ -1,4 +1,21 @@
-# NewsBuzz
+### NewsBuzz
+
+A React + Node powered news app using Guardian & NYTimes News API to render trending news to
+display trending news for different countries and categories
+
+### Home Page
+----
+![1](https://iili.io/Sy6rJV.png)
+
+
+
+
+
+
+
+![2](https://iili.io/SyPadQ.png)
+
+
 
 # Getting Started with Create React App
 
